@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/dearhive/dearflip-jquery-flipbook/issues"
   },
-  "homepage": "https://github.com/dearhive/dearflip-jquery-flipbook#readme"
+  "homepage": "https://github.com/dearhive/dearflip-jquery-flipbook#readme",
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
 }
